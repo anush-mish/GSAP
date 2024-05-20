@@ -9,36 +9,14 @@ html,body{
     height:100%;
     width:100%;
 }
-#page1{
-    height: 100%;
+body{
+    background-color: #111;
+}
+
+#string{
     width:100%;
-    background-color: rgb(116, 42, 86);
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    height:300px;
 }
-
-#page2{
-    height: 100%;
-    width:100%;
-    background-color: rgb(30, 210, 144);
-    display: flex;
-    justify-content: center;
-    align-items: center;
+#svg{
+    background-color: rgb(41, 41, 139);
 }
-
-#page3{
-    height: 100%;
-    width:100%;
-    background-color: rgb(188, 178, 195);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-#box{
-    height:200px;
-    width:200px;
-    background: rgb(160, 42, 203);
-}
-
-
